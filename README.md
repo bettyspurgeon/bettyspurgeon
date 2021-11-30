@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Betty 👋
 
+✨ I have an interactive CV [here](betty.spurgeon.notion.site/Betty-Spurgeon3d4075f8240f47129f7ffcb72bc4a4e2) 
 <!--
 **bettyspurgeon/bettyspurgeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
