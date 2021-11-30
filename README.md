@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFB6C1&size=35&center=true&lines=Hi%2C+I'm+Betty)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF3AD0&size=30&lines=Hi%2C+I'm+Betty+%F0%9F%92%96)](https://git.io/typing-svg)
 
 ✨ I am a self-taught (aspriing) Front End Web Developer \
 ✨ I am a Canadian in Luxembourg 🇨🇦🇱🇺 \
