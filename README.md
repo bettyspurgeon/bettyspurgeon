@@ -15,7 +15,10 @@
 ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 **Tools I 💖**
-
+![image](http://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![image](http://img.shields.io/badge/Notion)
+![image](http://img.shields.io/badge/Canva)
+![image](http://img.shields.io/badge/Figma)
 
 <!--
 **bettyspurgeon/bettyspurgeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
