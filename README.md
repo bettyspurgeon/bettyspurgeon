@@ -20,7 +20,7 @@
 ![image](http://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![image](http://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-![Betty's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bettyspurgeon&show_icons=true&theme=radical)\
+![Betty's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bettyspurgeon&show_icons=true&theme=radical)
 <!--
 **bettyspurgeon/bettyspurgeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
