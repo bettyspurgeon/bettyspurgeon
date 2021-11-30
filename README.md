@@ -14,11 +14,12 @@
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Tools I 💖**
+**Tools I 💖**\
 ![image](http://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![image](http://img.shields.io/badge/Notion)
-![image](http://img.shields.io/badge/Canva)
-![image](http://img.shields.io/badge/Figma)
+![image](http://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![image](http://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+![image](http://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 
 <!--
 **bettyspurgeon/bettyspurgeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
