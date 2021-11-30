@@ -1,11 +1,15 @@
 ### Hi there, I'm Betty 👋
 
-✨ I am a self-taught (aspriing) Front End Web Developer
-✨ I am a Canadian in Luxembourg 🇨🇦🇱🇺
-✨ Aside from learning web development, I am also learning French 🇫🇷
-✨ When I'm not sat in front of my Laptop, I'm ususally at the gym 🏋️‍♀️
-✨ I have two true loves: Cats 🐱 and Digital Planners 📓
+✨ I am a self-taught (aspriing) Front End Web Developer. 
+✨ I am a Canadian in Luxembourg 🇨🇦🇱🇺. 
+✨ Aside from learning web development, I am also learning French 🇫🇷. 
+✨ When I'm not sat in front of my Laptop, I'm ususally at the gym 🏋️‍♀️. 
+✨ I have two true loves: Cats 🐱 and Digital Planners 📓. 
 ✨ I have an [interactive CV](https://bettyspurgeon.notion.site/Betty-Spurgeon-3d4075f8240f47129f7ffcb72bc4a4e2)
+
+
+
+
 <!--
 **bettyspurgeon/bettyspurgeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
