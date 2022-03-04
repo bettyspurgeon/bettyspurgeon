@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF3AD0&size=30&lines=Hi%2C+I'm+Betty+✌️)](https://git.io/typing-svg)
 
-✨ I am a self-taught (aspiring) Front End Web Developer \
+✨ I am currently enrolled in the CodingJobs Bootcamp by Numericall, ADEM, and the CNFPC! \
 ✨ I am a Canadian in Luxembourg 🇨🇦🇱🇺 \
 ✨ Aside from learning web development, I am also learning French 🇫🇷 \
 ✨ When I'm not sat in front of my Laptop, I'm ususally at the gym 🏋️‍♀️ \
