@@ -2,6 +2,7 @@
 
 ✨ I am currently enrolled in the CodingJobs Bootcamp by Numericall, ADEM, and the CNFPC! \
 ✨ I am a Canadian in Luxembourg 🇨🇦🇱🇺 \
+✨ I lead the [Codecademy Luxembourg Chapter](https://community.codecademy.com/codecademy-luxembourg) \
 ✨ Aside from learning web development, I am also learning French 🇫🇷 \
 ✨ When I'm not sat in front of my Laptop, I'm ususally at the gym 🏋️‍♀️ \
 ✨ I have two true loves: Cats 🐱 and Digital Planners 📓 \
