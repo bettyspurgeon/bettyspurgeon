@@ -5,7 +5,6 @@
 ✨ I lead the [Codecademy Luxembourg Chapter](https://community.codecademy.com/codecademy-luxembourg) \
 ✨ Aside from learning web development, I am also learning French 🇫🇷 \
 ✨ When I'm not sat in front of my Laptop, I'm ususally at the gym 🏋️‍♀️ \
-✨ I have two true loves: Cats 🐱 and Digital Planners 📓 \
 ✨ I have an [interactive CV](https://bettyspurgeon.notion.site/Betty-Spurgeon-3d4075f8240f47129f7ffcb72bc4a4e2)
 
 **My Stack (so far)**\
