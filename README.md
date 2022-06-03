@@ -1,10 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF3AD0&size=30&lines=Hi%2C+I'm+Betty+✌️)](https://git.io/typing-svg)
 
-✨ I am currently enrolled in the CodingJobs Bootcamp by Numericall, ADEM, and the CNFPC! \
-✨ I am a Canadian in Luxembourg 🇨🇦🇱🇺 \
-✨ I lead the [Codecademy Luxembourg Chapter](https://community.codecademy.com/codecademy-luxembourg) \
-✨ Aside from learning web development, I am also learning French 🇫🇷 \
-✨ When I'm not sat in front of my Laptop, I'm ususally at the gym 🏋️‍♀️ \
+I am currently enrolled in the CodingJobs Bootcamp by Numericall, ADEM, and the CNFPC! \
+I am a Canadian in Luxembourg 🇨🇦🇱🇺 \
+I lead the [Codecademy Luxembourg Chapter](https://community.codecademy.com/codecademy-luxembourg) \
 ✨ I have an [interactive CV](https://bettyspurgeon.notion.site/Betty-Spurgeon-3d4075f8240f47129f7ffcb72bc4a4e2)
 
 **My Stack (so far)**\
@@ -15,7 +13,7 @@
 ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/PHP-8892bf?style=for-the-badge&logo=php&logoColor=white)
 
-**Tools I 💖**\
+**Tools I use**\
 ![image](http://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![image](http://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![image](http://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
