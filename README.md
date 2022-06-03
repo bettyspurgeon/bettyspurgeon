@@ -12,7 +12,7 @@ I have an [interactive CV](https://bettyspurgeon.notion.site/Betty-Spurgeon-3d40
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/PHP-8892bf?style=for-the-badge&logo=php&logoColor=white)
-![image](https://img.shields.io/badge/Laravel-8892bf?style=for-the-badge&logo=laravel&logoColor=white)
+![image](https://img.shields.io/badge/Laravel-f05340?style=for-the-badge&logo=laravel&logoColor=white)
 
 **Tools I use**\
 ![image](http://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
