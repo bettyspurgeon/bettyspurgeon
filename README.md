@@ -1,4 +1,4 @@
-[![Typing SVG][![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1ECAF7&lines=Hi%2C+I'm+Betty)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1ECAF7&lines=Hi%2C+I'm+Betty)](https://git.io/typing-svg)
 
 I am currently enrolled in the CodingJobs Bootcamp by Numericall, ADEM, and the CNFPC! \
 I am a Canadian in Luxembourg 🇨🇦🇱🇺 \
