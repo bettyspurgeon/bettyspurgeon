@@ -1,9 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF3AD0&size=30&lines=Hi%2C+I'm+Betty+✌️)](https://git.io/typing-svg)
+[![Typing SVG][![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1ECAF7&lines=Hi%2C+I'm+Betty)](https://git.io/typing-svg)
 
 I am currently enrolled in the CodingJobs Bootcamp by Numericall, ADEM, and the CNFPC! \
 I am a Canadian in Luxembourg 🇨🇦🇱🇺 \
 I lead the [Codecademy Luxembourg Chapter](https://community.codecademy.com/codecademy-luxembourg) \
-✨ I have an [interactive CV](https://bettyspurgeon.notion.site/Betty-Spurgeon-3d4075f8240f47129f7ffcb72bc4a4e2)
+I have an [interactive CV](https://bettyspurgeon.notion.site/Betty-Spurgeon-3d4075f8240f47129f7ffcb72bc4a4e2)
 
 **My Stack (so far)**\
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
